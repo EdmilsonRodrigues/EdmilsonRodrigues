@@ -11,8 +11,8 @@
 </div>
 
 - 🔭 I’m currently looking for my first job in this field
-- 🌱 I’m currently learning Python, SQL, Tableau, JavaScript, C++, R, C, C#, HTML5, CSS3, PHP8, Machine Learning, Deep Learning 
-- 🤔 I’m looking for help with any task, but specially in the software developmemnt and data analysis fields.
+- 👯 I’m looking to collaborate on any project, but specially in the software developmemnt and data analysis fields.
+- 🤔 I’m looking for help with getting my first professional experince in the programming field.
 - 😄 Pronouns: He/Him
 
 <!--
