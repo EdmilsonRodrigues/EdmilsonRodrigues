@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Edmilson Rodrigues and I am looking for a Junior Position
+## My name is Edmilson Rodrigues and I am now an Intern in Roborian.
 
 ## <b>Skills</b>
 
@@ -10,10 +10,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently looking for my first job in this field
-- 👯 I’m looking to collaborate on any project, but specially in the software developmemnt and data analysis fields.
-- 🤔 I’m looking for help with getting my first professional experince in the programming field.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: Any
 
 <!--
 **EdmilsonRodrigues/EdmilsonRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
