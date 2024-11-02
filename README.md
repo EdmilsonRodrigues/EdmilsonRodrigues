@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Edmilson Rodrigues and I am now an Intern in Roborian.
+## My name is Edmilson Rodrigues and I am now a Freelancer in Roborian.
 
 ## <b>Skills</b>
 
