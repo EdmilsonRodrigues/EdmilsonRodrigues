@@ -9,7 +9,7 @@
 </div>
 
 ## <b>A little about me </b>
-I am a Developer, specialized in Python and Go development.
+I am a Developer, specializing in Python and Go development.
 
 I started programming in 2018, studying Python continuously ever since, but started working as a developer in January 2024.
 
@@ -20,6 +20,7 @@ I am now looking for an opportunity for a development role at a new company.
 I am an enthusiast of languages, both the human and the programming ones.
 
 ## <b>Skills</b>
+### <b>Main Languages</b>
 - Go
   - Gin
 - Python
@@ -30,6 +31,12 @@ I am an enthusiast of languages, both the human and the programming ones.
 - TypeScript
   - Angular
   - React
+### <b>Dev Ops</b>
+- Linux
+  - Advanced Linux
+  - Deb Packaging
+  - Snap Packaging
+  - Networking
 - Clouds
   - AWS
   - GCP
@@ -42,10 +49,11 @@ I am an enthusiast of languages, both the human and the programming ones.
   - LXC
   - Vagrant
   - Multipass
-- Linux
-  - Advanced Linux
-  - Deb Packaging
-  - Snap Packaging
+### <b>Other Technologies</b>
+- Messaging
+  - Kafka
+  - RabbitMQ
+### <b>Practices and Others</b>
 - Tests
   - Property Based Tests
   - Unit Testing
@@ -54,9 +62,6 @@ I am an enthusiast of languages, both the human and the programming ones.
   - Load Testing
   - TDD
   - BDD
-- Messaging
-  - Kafka
-  - RabbitMQ
 - Architectures
   - Monolyth
   - Micro Services
@@ -69,7 +74,7 @@ I am an enthusiast of languages, both the human and the programming ones.
   - C
   - C++
 
-## <b>Languages Spoken</b>
+## <b>Languages Speaken</b>
 - Portuguese (Native)
 - English (Fluent)
 - Galego (Intermediary)
