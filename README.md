@@ -8,6 +8,12 @@
   </a>
 </div>
 
+## <b>A little about me </b>
+I am a Developer, specialized in Python and Go development.
+I started programming in 2018, studying Python continuously ever since, but started working as a developer in January 2024.
+I am an open-source enthusiast, having contributed to several notable projects, and I am always seeking new opportunities to contribute.
+I am now looking for an opportunity for a development role at a new company.
+
 ## <b>Skills</b>
 - Go
   - Gin
