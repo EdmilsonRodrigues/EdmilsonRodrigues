@@ -7,11 +7,6 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonRodrigues&layout=compact&langs_count=16&theme=algolia" />
   </a>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iiinaraaa/iiinaraaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EdmilsonRodrigues/EdmilsonRodrigues/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## <b>A little about me </b>
 I am a Developer, specialized in Python and Go development.
