@@ -17,7 +17,7 @@ I am an open-source enthusiast, having contributed to several notable projects, 
 
 I am now looking for an opportunity for a development role at a new company.
 
-I am an enthusiast of languages, so I am always giving a look at new languages, and the list of languages I have some domain is a little longer, but, bellow you will see some of the skills that I cultivated the most over the last 6 years.
+I am an enthusiast of languages, both the human and the programming ones.
 
 ## <b>Skills</b>
 - Go
@@ -29,19 +29,53 @@ I am an enthusiast of languages, so I am always giving a look at new languages, 
   - Spring Boot  
 - TypeScript
   - Angular
-  - React  
-- QML
-- AWS
-- GCP
-- OCI
-- Docker
-- Kubernetes
+  - React
+- Clouds
+  - AWS
+  - GCP
+  - OCI
+  - Azure
+- Virtualization
+  - Docker
+  - Podman
+  - Kubernetes
+  - LXC
+  - Vagrant
+  - Multipass
 - Linux
-- TDD
-- BDD
-- Kafka
-- RabbitMQ
+  - Advanced Linux
+  - Deb Packaging
+  - Snap Packaging
+- Tests
+  - Property Based Tests
+  - Unit Testing
+  - Integration Testing
+  - End to End Testing
+  - Load Testing
+  - TDD
+  - BDD
+- Messaging
+  - Kafka
+  - RabbitMQ
+- Architectures
+  - Monolyth
+  - Micro Services
+  - Event Sourcing
+  - Serverless
+- Other languages
+  - Elixir
+  - Emacs Lisp
+  - QML
+  - C
+  - C++
 
+## <b>Languages Spoken</b>
+- Portuguese (Native)
+- English (Fluent)
+- Galego (Intermediary)
+- Spanish (Intermediary)
+- French (Basic)
+- Mandarin (Basic)
 
 <!--
 **EdmilsonRodrigues/EdmilsonRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
