@@ -17,6 +17,8 @@ I am an open-source enthusiast, having contributed to several notable projects, 
 
 I am now looking for an opportunity for a development role at a new company.
 
+I am an enthusiast of languages, so I am always giving a look at new languages, and the list of languages I have some domain is a little longer, but, bellow you will see some of the skills that I cultivated the most over the last 6 years.
+
 ## <b>Skills</b>
 - Go
   - Gin
