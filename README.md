@@ -14,6 +14,8 @@
 - Python
   - FastAPI
   - Flask
+- Java
+  - Spring Boot  
 - TypeScript
   - Angular
   - React  
@@ -26,7 +28,8 @@
 - Linux
 - TDD
 - BDD
-- 
+- Kafka
+- RabbitMQ
 
 
 <!--
