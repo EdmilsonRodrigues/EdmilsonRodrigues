@@ -1,10 +1,23 @@
 ### Hi there 👋
 ## My name is Edmilson Rodrigues, and I am a freelancer looking for new opportunities.
 
+<div>
+  <a href="https://github.com/EdmilsonRodrigues">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=EdmilsonRodrigues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonRodrigues&layout=compact&langs_count=16&theme=algolia" />
+  </a>
+</div>
+
 ## <b>Skills</b>
-- Python
 - Go
+  - Gin
+- Python
+  - FastAPI
+  - Flask
 - TypeScript
+  - Angular
+  - React  
+- QML
 - AWS
 - GCP
 - OCI
@@ -13,15 +26,8 @@
 - Linux
 - TDD
 - BDD
+- 
 
-<div>
-  <a href="https://github.com/EdmilsonRodrigues">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=EdmilsonRodrigues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdmilsonRodrigues&layout=compact&langs_count=16&theme=algolia" />
-  </a>
-</div>
-
-- 😄 Pronouns: Any
 
 <!--
 **EdmilsonRodrigues/EdmilsonRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
