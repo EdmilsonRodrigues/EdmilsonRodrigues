@@ -1,7 +1,18 @@
 ### Hi there 👋
-## My name is Edmilson Rodrigues and I am now a Freelancer in Roborian.
+## My name is Edmilson Rodrigues, and I am a freelancer looking for new opportunities.
 
 ## <b>Skills</b>
+- Python
+- Go
+- TypeScript
+- AWS
+- GCP
+- OCI
+- Docker
+- Kubernetes
+- Linux
+- TDD
+- BDD
 
 <div>
   <a href="https://github.com/EdmilsonRodrigues">
